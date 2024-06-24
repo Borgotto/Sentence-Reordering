@@ -63,3 +63,7 @@ List of the hyperparameters used:
 
 ## Results
 The final model has a score of `~0.49` using the provided evaluation metrics, way above the estimated performance of a random classifier, estimated to be around ~0.19 with a standard deviation of ~0.06. 
+
+## Excecution Enviroment
+The notebook has been created working on a [Kaggle notebook](https://www.kaggle.com/code). A requirement.txt file is provided inside the repo and report all the dependences found at the end of the excecution of the Kaggle notebook. 
+The same code can also be excecuted in colab, but the dependences may not work. 
