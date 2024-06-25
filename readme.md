@@ -1,6 +1,6 @@
 # Sentence Reordering using Transformer architecture
 
-This task was part of my Deep Learning examination on june 2024 for the Master’s program in Artificial Intelligence at the University of Bologna. The objective of this project is to create a model capable of reordering the words in a sentece. The input is presented as a sequence of words in a random permutation and the task is to recostruct the original English sentence.
+This task was part of my Deep Learning examination on june 2024 for the Master’s program in Artificial Intelligence at the University of Bologna. The objective of this project is to create a model capable of reordering the words in a sentence. The input is presented as a sequence of words in a random permutation and the task is to recostruct the original English sentence.
 
 In this study I suggest a Transformer Seq to Seq model capable of generating rearranged sentences that maintain the original sentences’ meaning and grammatical correctness.
 
